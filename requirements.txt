@@ -1,0 +1,5 @@
+flask
+requests
+sqlite3-bro
+python-telegram-bot
+geocoder
